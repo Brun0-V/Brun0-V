@@ -36,5 +36,5 @@ object Bruno {
 
 <br>
 
-#### Reach me ->
+#### 📫 Reach me
 [![Email](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Acontact.brunovega%40gmail.com)](mailto:contact.brunovega@gmail.com)
