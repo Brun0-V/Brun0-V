@@ -45,6 +45,6 @@ object Bruno {
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Brun0-v&icon=0&color=0" />
+    <img src="https://komarev.com/ghpvc/?username=brun0-v&color=lightgrey&style=for-the-badge" />
   </a>
 </p>
