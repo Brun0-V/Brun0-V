@@ -1,6 +1,6 @@
 ## <font size=32px>_**Hello World!**_ </font> 
 
-### <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> **About me**
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> **About me**
 
 <img align="right" width="170" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" />
 
@@ -19,7 +19,9 @@ object Bruno {
   I'm open to colaboration and Improvement
 </p>
 
-## **Languages and Tools:**  
+<br>
+
+## 💻 **Languages and Tools:**  
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino&logoColor=white)
@@ -28,13 +30,21 @@ object Bruno {
 ![VSC](https://img.shields.io/badge/VSC-black?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-## **GitHub Statistics**
+## 📊 **GitHub Stats**
+<p>
 
-<a href="https://github.com/Brun0-V">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brun0-v&show_icons=true&theme=github_dark&rank_icon=github" />
-</a>
-
+  ![](https://github-readme-stats.vercel.app/api?username=Brun0-v&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Brun0-v&theme=dark&hide_border=true)<br/>
+  
+</p>
 <br>
 
-#### 📫 Reach me
-[![Email](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Acontact.brunovega%40gmail.com)](mailto:contact.brunovega@gmail.com)
+#### Reach me ->
+![Email](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Acontact.brunovega%40gmail.com)
+<br>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Brun0-v&icon=0&color=0" />
+  </a>
+</p>
