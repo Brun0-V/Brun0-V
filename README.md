@@ -1,8 +1,8 @@
 ## <font size=32px>_**Hello World!**_ </font> 
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> **About me**
+### <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> **About me**
 
-<img align="right" width="200" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" />
+<img align="right" width="170" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" />
 
 
 ```kotlin
