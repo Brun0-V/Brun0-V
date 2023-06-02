@@ -33,7 +33,7 @@ object Bruno {
 ## 📊 **GitHub Stats**
 <p>
 
-  ![](https://github-readme-stats.vercel.app/api?username=Brun0-v&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=Brun0-v&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Brun0-v&theme=dark&hide_border=true)<br/>
   
 </p>
